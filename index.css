@@ -1,0 +1,19 @@
+.grey {
+ background-color: lightgrey;
+ height: 100%;
+}
+
+.ss {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.errorpage {
+  height: 100%;
+  width: 100%;
+}
+
+.error {
+  text-align: center;
+  vertical-align: middle;
+}
